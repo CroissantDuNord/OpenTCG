@@ -1,3 +1,5 @@
+![Group 10](https://github.com/CroissantDuNord/OpenTCG/assets/79372025/c3163d32-298a-4e1b-8457-a15b89a7448f)
+
 ## OpenTCG IRL
 A real life of version of the card game Genius Invokation from the game "Genshin Impact©", this project is open to contribution
 
