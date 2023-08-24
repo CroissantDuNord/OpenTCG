@@ -8,8 +8,7 @@ A real life of version of the card game Genius Invokation from the game "Genshin
 You can view the Figma file here (LINK), clone/copy this file, to make your own cards (Only official card form Genshin Impact) are accepted, then fork this repository add your cards, and make a pull request 
 
 ## How to play it!
-View the complete tutorial on Notion here https://nt-gr.notion.site/OpenTCG-Wiki-FR-e979a38b40a34a859d649b38e44cf152?pvs=4
-**English Version WIP**
+[View the complete creation Tutorial/Wiki on Notion](https://nt-gr.notion.site/OpenTCG-Wiki-EN-23dc308c28c4448abede7f2bbe204c0b?pvs=4)
 
 
 ## Copyright
