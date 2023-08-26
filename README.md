@@ -7,11 +7,11 @@ A real life of version of the card game Genius Invokation from the game "Genshin
 ## How to play it!
 [View the complete creation Tutorial/Wiki on Notion](https://nt-gr.notion.site/OpenTCG-Wiki-EN-23dc308c28c4448abede7f2bbe204c0b?pvs=4)
 
-##Progress
-💁 Character    6/51 Cards
-🎴 Action Cards 0/30 Cards
-📖 Wiki (French Version ✅ / English Version ✅) **DONE!**
-📄 Full PDF, (Print Ready!) Released when other cards are made 🔴
+## Progress
+- 💁 Character **6/51** Cards
+- 🎴 Action Cards **0/30** Cards
+- 📖 Wiki (French Version ✅ / English Version ✅) **DONE!**
+- 📄 Full PDF, (Print Ready!) Released when other cards are made 🔴
 
 
 ## How to contribute
